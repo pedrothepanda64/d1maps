@@ -1,0 +1,5 @@
+src/autosave
+config.cfg
+condump.txt
+*.pts
+*.bak
